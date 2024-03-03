@@ -5,12 +5,12 @@ Clone my repository in you local maching as :https://github.com/Huynhngocthaiduy
 Due to the size of the data set over 100MB. Please dowloand the dataset by the following likd
 1. Unzip the data set in the same repository.
     Please note that the structure of the data set should be:
-                repository
-                    MLP-20M
-                        MLP-20M
-                            1.jpg
-                            2.jpg
-                            .
+                repository /n
+                    MLP-20M /n
+                        MLP-20M /n
+                            1.jpg /n
+                            2.jpg /n
+                            . /n
                             .
                             .
 1. Install Docker and Docker compose
