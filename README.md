@@ -1,7 +1,7 @@
 ## Donwload the project
 
 Clone my repository in you local maching as :https://github.com/Huynhngocthaiduy/Recommender-system-for-movies
-Due to the size of the data set and rec_imdb_960_full.ann(annoy features list)  over 100MB. Please dowloand themby the following link https://drive.google.com/file/d/1d4QRI6DN5IkqcqYMP-dYpdAPVovwlbqF/view?usp=sharing
+Due to the size of the dataset and rec_imdb_960_full.ann(annoy features list)  over 100MB. Please dowloand them by the following link https://drive.google.com/file/d/1d4QRI6DN5IkqcqYMP-dYpdAPVovwlbqF/view?usp=sharing
 
 1. Unzip the data set in the same repository.
     Please note that the structure of the data set should be:<br>
